@@ -1,6 +1,6 @@
 # quizzes
-Flask starter project for quizzes
-
+* Flask starter project for quizzes
+* available live at https://johnreeves.pythonanywhere.com/
 
 # folder structure
 
