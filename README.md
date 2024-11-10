@@ -8,8 +8,8 @@ Flask starter project for quizzes
 project/
 │
 ├── static/
-│   ├── style.css                # CSS for styling
-│   └── script.js                # JavaScript for quiz interactivity
+│   ├── style.css                 # CSS for styling
+│   └── script.js                 # JavaScript for quiz interactivity
 │
 ├── templates/
 │   └── index.html                # HTML file to be rendered by Flask
